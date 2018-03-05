@@ -1,0 +1,6 @@
+WYMAGANIA PROJEKTOWE
+
+- Stworzenie aplikacji dla systemu „inteligentnego domu”
+- Możliwość dodania do systemu nowych czujników oraz urządzeń
+- Komunikacja czujników i urządzeń z systemem poprzez sieć
+- Możliwość sterowania przez użytkownika podłączonymi do systemu urządzeniami poprzez aplikacje
